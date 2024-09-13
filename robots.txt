@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fultatip.github.io/sitemap.html.gz
+Sitemap: https://fultatip.github.io/app/sitemap.html.gz
+Sitemap: https://fultatip.github.io/assets/sitemap.html.gz
+Sitemap: https://fultatip.github.io/css/sitemap.html.gz
+Sitemap: https://fultatip.github.io/includes/sitemap.html.gz
+Sitemap: https://fultatip.github.io/item/sitemap.html.gz
+Sitemap: https://fultatip.github.io/src/sitemap.html.gz
